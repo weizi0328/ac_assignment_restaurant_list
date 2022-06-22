@@ -79,7 +79,6 @@ header {
 }
 
 @media screen and (max-width: 992px) {
-
   .card img {
     height: 115px;
   }
